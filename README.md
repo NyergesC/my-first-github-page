@@ -14,7 +14,7 @@
 <div class="container">
     <div class="box">
         <p>If life gives you lemons</p>
-        <p>THE TEXT HAS BEEN CHANGED</p>
+        <p>MAKE A TEQUILA</p>
     </div>
 </div>
 </body>
